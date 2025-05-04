@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**rogeriioms/rogeriioms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Rogerio
 
-Here are some ideas to get you started:
+A passionate young developer from Brazil, currently 16 years old. I've been studying Java since I was 12 and have fallen in love with programming ever since. I'm always eager to learn new technologies, build cool projects, and improve my skills every day. I enjoy solving problems and sharing knowledge with others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you're working on exciting projects or just want to connect, feel free to reach out!
+
+---
+
+### 📫 Contact with me:
+[LinkedIn](#) | [Website](#) | [Youtube](#)
+
+---
+
+### 💻 Languages and Tools:
+Java | SpringBoot | Docker | PostgreSQL | TypeScript | MySQL | AWS | JUnit
