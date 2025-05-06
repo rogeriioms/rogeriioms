@@ -26,5 +26,5 @@
 
 ### 💻 <b>Languages and Tools:</b>
 <p align="center">
-  Java | SpringBoot | Docker | PostgreSQL | TypeScript | MySQL | AWS | JUnit
+  Java | SpringBoot | Docker | PostgreSQL | Redis | MySQL | AWS | JUnit
 </p>
